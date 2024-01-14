@@ -1,7 +1,7 @@
 #!/bin/bash
-#SBATCH --partition=A100medium
+#SBATCH --partition=A40medium
 #SBATCH --time=8:00:00
-#SBATCH --gpus=1
+#SBATCH --gpus=4
 #SBATCH --ntasks=1
 
 
