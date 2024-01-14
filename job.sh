@@ -5,4 +5,4 @@
 #SBATCH --ntasks=1
 
 
-python script.py
+python device_count.py
