@@ -8,7 +8,7 @@ def main():
     file_name = sys.argv[1]
     output_name = sys.argv[2]
     with open(file_name, 'r') as f:
-        lines = [line.strip() for line in f.readlines()]
+        lines = [line.strip() for line in f.readlines() if line.strip() != '']
     with open(output_name, 'a+') as f:
         # Check if file exists
         try:
@@ -18,7 +18,8 @@ def main():
         except ValueError:
             # If not, create it
             data = {}
-            data['data'] = {}
+            for line in lines:
+                data[line] = None
             json.dump(data, f)
 
 if __name__ == '__main__':
