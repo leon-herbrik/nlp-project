@@ -13,12 +13,12 @@ def main():
         # Check if file exists
         try:
             data = json.load(f)
-            # If so, append lines that don't exist
-            data['prompts'].extend([lines for line in lines if line not in data['prompts']])
+            for line in lines:
+                data[line] = None
         except ValueError:
             # If not, create it
-            data = {'prompts': lines,
-                       'responses': []}
+            data = {}
+            data['data'] = {}
             json.dump(data, f)
 
 if __name__ == '__main__':
