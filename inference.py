@@ -22,7 +22,8 @@ def inference(model_name_or_path: str, prompt: str):
     '''
     input_ids = tokenizer(prompt_template, return_tensors='pt').input_ids.cuda()
     output = model.generate(inputs=input_ids, temperature=0.7, do_sample=True, top_p=0.95, top_k=40, max_new_tokens=512)
-    return tokenizer.decode(output[0])
+    response = tokenizer.decode(output[0])
+    return response
 
 if __name__ == '__main__':
     # This is an example of how to use the inference function

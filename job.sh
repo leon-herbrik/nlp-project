@@ -1,8 +1,8 @@
 #!/bin/bash
-#SBATCH --partition=A40medium
-#SBATCH --time=8:00:00
-#SBATCH --gpus=4
+#SBATCH --partition=A100medium
+#SBATCH --time=23:59:59
+#SBATCH --gpus=1
 #SBATCH --ntasks=1
 
 
-python device_count.py
+python create_captions.py --categories explain generate wh-questions yesno
