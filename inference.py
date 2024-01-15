@@ -23,6 +23,7 @@ def inference(model_name_or_path: str, prompt: str):
     input_ids = tokenizer(prompt_template, return_tensors='pt').input_ids.cuda()
     output = model.generate(inputs=input_ids, temperature=0.7, do_sample=True, top_p=0.95, top_k=40, max_new_tokens=512)
     response = tokenizer.decode(output[0])
+    del output
     return response
 
 if __name__ == '__main__':
