@@ -13,7 +13,7 @@ def get_custom_dataset(dataset_config, tokenizer, split):
 
 
 class Dataset(torch.utils.data.Dataset):
-    def __init__(self, tokenizer, data: str = "data", split: str = "train"):
+    def __init__(self, tokenizer, data: str = "/home/s6leherb/nlp-project/data", split: str = "train"):
         self.tokenizer = tokenizer
         split: str = split
         self.B_INST: str = "[INST]"
