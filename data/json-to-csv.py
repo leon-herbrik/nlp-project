@@ -10,13 +10,13 @@ def main():
         "output": "1.Eat a balanced diet"
     }, ...]
     and convert to csv format:
-    id,instruction,raw_response,input
+    id,instruction,response,input
     """
     with open("alpaca_data.json", "r") as f:
         data = json.load(f)
     df = pd.DataFrame(data)
     df["id"] = df.index
-    df = df.rename(columns={"output": "raw_response"})
+    df = df.rename(columns={"output": "response"})
 
     # Subsample to 1/20th of the data.
     df = df.sample(frac=0.05, random_state=42)
