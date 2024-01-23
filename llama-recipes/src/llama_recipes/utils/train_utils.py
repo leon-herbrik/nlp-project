@@ -18,6 +18,7 @@ from torch.distributed.fsdp.sharded_grad_scaler import ShardedGradScaler
 from tqdm import tqdm
 from transformers import LlamaTokenizer
 import json
+from sorcery import dict_of
 
 
 from llama_recipes.model_checkpointing import (
@@ -104,7 +105,7 @@ def train(
     best_val_loss = float("inf")
     best_alpaca_loss = float("inf")
     for epoch in range(train_config.num_epochs):
-        epoch_out_dir = f"{train_config.output_dir}/epoch_{epoch}"
+        epoch_out_dir = f"{train_config.output_dir}/epochs/epoch_{epoch}"
         epoch_start_time = time.perf_counter()
         with MemoryTrace() as memtrace:  # track the memory usage
             model.train()
@@ -191,8 +192,7 @@ def train(
                 )
 
                 if train_config.save_metrics:
-                    save_to_json(
-                        metrics_filename,
+                    metrics = dict_of(
                         train_step_loss,
                         train_loss,
                         train_step_perplexity,
@@ -204,7 +204,11 @@ def train(
                         alpaca_step_loss,
                         alpaca_loss,
                         alpaca_step_perplexity,
-                        alpaca_prep,
+                        alpaca_prep
+                    )
+                    save_to_json(
+                        metrics_filename,
+                        **metrics
                     )
             pbar.close()
 
@@ -369,20 +373,23 @@ def train(
 
         # Saving the results every epoch to plot later
         if train_config.save_metrics:
+            metrics = dict_of(
+                        train_step_loss,
+                        train_loss,
+                        train_step_perplexity,
+                        train_prep,
+                        val_step_loss,
+                        val_loss,
+                        val_step_perplexity,
+                        val_prep,
+                        alpaca_step_loss,
+                        alpaca_loss,
+                        alpaca_step_perplexity,
+                        alpaca_prep
+                    )
             save_to_json(
                 metrics_filename,
-                train_step_loss,
-                train_loss,
-                train_step_perplexity,
-                train_prep,
-                val_step_loss,
-                val_loss,
-                val_step_perplexity,
-                val_prep,
-                alpaca_step_loss,
-                alpaca_loss,
-                alpaca_step_perplexity,
-                alpaca_prep,
+                **metrics
             )
 
     avg_epoch_time = sum(epoch_times) / len(epoch_times)
@@ -647,25 +654,7 @@ def save_train_params(train_config, fsdp_config, rank):
 
 
 def save_to_json(
-    output_filename,
-    train_step_loss,
-    train_epoch_loss,
-    train_step_ppl,
-    train_epoch_ppl,
-    val_step_loss,
-    val_epoch_loss,
-    val_step_ppl,
-    val_epoch_ppl,
+    output_filename, **kwargs
 ):
-    metrics_data = {
-        "train_step_loss": train_step_loss,
-        "train_epoch_loss": train_epoch_loss,
-        "train_step_perplexity": train_step_ppl,
-        "train_epoch_perplexity": train_epoch_ppl,
-        "val_step_loss": val_step_loss,
-        "val_epoch_loss": val_epoch_loss,
-        "val_step_perplexity": val_step_ppl,
-        "val_epoch_perplexity": val_epoch_ppl,
-    }
     with open(output_filename, "w") as f:
-        json.dump(metrics_data, f)
+        json.dump(kwargs, f)

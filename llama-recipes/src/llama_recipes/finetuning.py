@@ -210,7 +210,7 @@ def main(**kwargs):
         split="alpaca",
     )
     if not train_config.enable_fsdp or rank == 0:
-        print(f"--> Validation Set Length = {len(dataset_alpaca)}")
+        print(f"--> Alpaca Set Length = {len(dataset_alpaca)}")
 
     if train_config.batching_strategy == "packing":
         dataset_train = ConcatDataset(
