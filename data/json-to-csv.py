@@ -22,7 +22,7 @@ def main():
     df = df.sample(frac=0.05, random_state=42)
 
     # Store as csv.
-    df.to_csv("alpaca_data.csv", index=False)
+    df.to_csv("alpaca.csv", index=False)
 
     pass
 

@@ -1,5 +1,6 @@
 from Phyme import Phyme
 import re
+import sys
 
 def rhyming_percentage(text):
     """
@@ -32,6 +33,9 @@ def rhymes(word1, word2):
     
 
 def is_rhyming(w1, w2, criteria):
+    # If it's the same word, it's not rhyming.
+    if w1 == w2:
+        return False
     try:
         phyme_output = criteria(w1).values()
     except KeyError:
@@ -48,3 +52,14 @@ def last_ascii_word(line):
     Returns the last word in the line that is composed of ascii characters.
     """
     return re.findall(r"[a-zA-Z]+", line)[-1]
+
+
+def test():
+    file = sys.argv[1]
+    with open(file, "r") as f:
+        text = f.read()
+    print(rhyming_percentage(text))
+    pass
+
+if __name__ == "__main__":
+    test()
