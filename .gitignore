@@ -156,7 +156,7 @@ cython_debug/
 .vscode/
 
 # All contents of model/ but not the folder itself
-model/*
+model/Llama-2-7b-chat-hf/*
 
 # All slurm output files
 slurm-*
