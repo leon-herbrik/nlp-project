@@ -13,7 +13,12 @@ def get_custom_dataset(dataset_config, tokenizer, split):
 
 
 class Dataset(torch.utils.data.Dataset):
-    def __init__(self, tokenizer, data: str = "/home/s6leherb/nlp-project/data", split: str = "train"):
+    def __init__(
+        self,
+        tokenizer,
+        data_path: str = P.home() / "nlp-project/data",
+        split: str = "train",
+    ):
         self.tokenizer = tokenizer
         split: str = split
         self.B_INST: str = "[INST]"
@@ -21,7 +26,7 @@ class Dataset(torch.utils.data.Dataset):
         self.B_SYS: str = "<<SYS>>"
         self.E_SYS: str = "<</SYS>>"
         self.SYSTEM_PROMPT: str = "You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."
-        self.data = pd.read_csv(P(data) / f"{split}.csv")
+        self.data = pd.read_csv(P(data_path) / f"{split}.csv")
 
     def __len__(self):
         return len(self.data)
@@ -78,7 +83,7 @@ def test():
 
     tokenizer = TOK()
     # Create custom dataset.
-    dataset = Dataset(tokenizer, split="train")
+    dataset = Dataset(tokenizer, split="alpaca")
     # Show a few stats about the dataset.
     print(dataset.data.head())
     print(dataset.data.info())
