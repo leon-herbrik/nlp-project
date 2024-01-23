@@ -18,6 +18,9 @@ def main():
     df["id"] = df.index
     df = df.rename(columns={"output": "raw_response"})
 
+    # Subsample to 1/20th of the data.
+    df = df.sample(frac=0.05, random_state=42)
+
     # Store as csv.
     df.to_csv("alpaca_data.csv", index=False)
 
