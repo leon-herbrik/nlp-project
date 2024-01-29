@@ -1,0 +1,119 @@
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+When did the concept of quantum entanglement emerge in physics? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+How does the human brain process emotions? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+What is the process of fermentation in biology? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Where can you find the Amazon Rainforest, and why is it ecologically important? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Invent a device that allows people to experience the taste of fictional foods from literature and movies. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+What are the major contributions of ancient Chinese philosophy? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Why is it important to support local farmers and markets? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Describe the process of continental drift and the formation of supercontinents. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Explain the principles of organic farming. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Design a sustainable fashion collection inspired by bioluminescent organisms. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Design a set of characters and backgrounds for an interactive language-learning app. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Is there a correlation between socioeconomic status and access to quality healthcare? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Where does chocolate come from? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Create an original soundtrack for a documentary exploring sustainable forestry practices. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Write a persuasive essay on the positive impacts of integrating green spaces into urban planning. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Develop a detailed plan for a cross-country road trip itinerary. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Who were the major contributors to the Surrealist art movement? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Can technological advancements significantly improve accessibility for people with disabilities? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Can sustainable tourism practices help protect natural ecosystems? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Explain the principles of renewable energy storage technologies. [/INST]

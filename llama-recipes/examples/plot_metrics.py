@@ -5,23 +5,28 @@ import os
 import seaborn as sns
 
 
-def plot_metric(data, metric_name, x_label, y_label, title, colors):
+def plot_metric(data, metric_name, x_label, y_label, title, colors, max_epoch=10):
     plt.figure(figsize=(7, 6))
 
     plt.plot(
-        data[f"train_{metric_name}"],
+        data[f"train_{metric_name}"][:max_epoch],
         label=f"Train Epoch {metric_name.capitalize()}",
         color=colors[0],
     )
     plt.plot(
-        data[f"val_{metric_name}"],
+        data[f"val_{metric_name}"][:max_epoch],
         label=f"Validation Epoch {metric_name.capitalize()}",
         color=colors[1],
     )
     plt.plot(
-        data[f"alpaca_{metric_name}"],
+        data[f"alpaca_{metric_name}"][:max_epoch],
         label=f"Alpaca Validation Epoch {metric_name.capitalize()}",
         color=colors[2],
+    )
+    plt.plot(
+        data[f"rhyming"][:max_epoch],
+        label=f"Rhyming Percentage",
+        color=colors[3],
     )
     plt.xlabel(x_label)
     plt.ylabel(y_label)
@@ -86,9 +91,8 @@ def plot_metrics(file_path):
 
     directory = os.path.dirname(file_path)
     filename_prefix = os.path.basename(file_path).split(".")[0]
-    color_finesse = 64
-    colors = sns.color_palette("crest", color_finesse)
-    colors = colors[0 :: (color_finesse - 1) // 2]
+    number_of_metrics = 4
+    colors = sns.color_palette("crest", number_of_metrics)
 
     plot_metric(data, "loss", "Epoch", "Loss", "Loss", colors)
     plt.savefig(

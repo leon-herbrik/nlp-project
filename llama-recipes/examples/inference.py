@@ -144,3 +144,4 @@ def main(
 
 if __name__ == "__main__":
     fire.Fire(main)
+    # main(model_name="/home/s6leherb/nlp-project/model/Llama-2-7b-chat-hf", peft_model="/home/s6leherb/nlp-project/model/finetunes/epochs/epoch_1", prompt_file="/home/s6leherb/nlp-project/prompt.txt")

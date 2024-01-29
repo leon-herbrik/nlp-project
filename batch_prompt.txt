@@ -1,0 +1,59 @@
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Can sound travel through a vacuum? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Do penguins live in the Arctic? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Is the moon larger than Earth? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Write a guide for aspiring urban foragers, including tips on finding edible plants in city environments and delicious recipes using your foraged finds. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Design a concept for an eco-conscious fashion line that combines sustainability with cutting-edge style. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Describe the process of mitosis and its role in cell division. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Describe the key components and functions of the human respiratory system. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+Explain the principles of neurotransmission in the human brain and how it influences our thoughts, emotions, and behaviors. [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+What are the primary causes of air pollution in urban areas? [/INST]
+-----
+<s>[INST] <<SYS>>
+You are a helpful, creative and honest assistant. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+<</SYS>>
+
+What are the main differences between democracy and totalitarianism? [/INST]
