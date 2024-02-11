@@ -11,15 +11,15 @@ conda env create -f nlp.yml
 ```
 
 ## Usage
-1. For step 1 of the pipeline, use the following command:
+1. For step 1 of the pipeline, use the following script:
 ```bash
 python generate_questions.py
 ```
-2. For step 2 of the pipeline, use the following command:
+2. For step 2 of the pipeline, you can use this script:
 ```bash
 python create_captions.py
 ```
-3. For step 3 of the pipeline, use the following command:
+3. For step 3 of the pipeline, use this python file (there is some additional setup needed that is explained in the llama-recipes readme):
 ```bash
 python llama-recipes/src/finetuning.py
 ```
