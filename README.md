@@ -22,3 +22,6 @@ python create_captions.py
 3. For step 3 of the pipeline, use the following command:
 ```bash
 python llama-recipes/src/finetuning.py
+```
+## Model access
+Be aware that you need granted access to the LLama 2 model to use it. After requesting access here: https://llama.meta.com/llama-downloads/, you will receive a download link to the model. Place the model in the `model` directory.
