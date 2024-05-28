@@ -25,3 +25,6 @@ python llama-recipes/src/finetuning.py
 ```
 ## Model access
 Be aware that you need granted access to the LLama 2 model to use it. After requesting access here: https://llama.meta.com/llama-downloads/, you will receive a download link to the model. Place the model in the `model` directory.
+
+## We created a summary poster of our project - take a look:
+![project poster](/project_poster.jpeg)
