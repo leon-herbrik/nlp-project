@@ -3,7 +3,10 @@ import PyQt5
 import sys
 import random
 import os
+import time
 from PyQt5.QtWidgets import *
+
+basedir = os.path.dirname(__file__)
 
 class MainWindow(QWidget):
     
@@ -17,6 +20,7 @@ class MainWindow(QWidget):
         self.total_entries = len(self.data)
         self.responses = {}
         self.counter = 0
+        self.seed = time.time()
 
         # Set up the layout
         layout = QVBoxLayout()
@@ -99,9 +103,20 @@ class MainWindow(QWidget):
 
         # Load saved state if available
         self.load_from_disk()
+        
+        # Recreate random shuffle.
+        self.shuffle()
 
         # Load the first entry
         self.loadEntry()
+
+    def shuffle(self):
+        if self.seed is None:
+            self.seed = time.time()
+        random.seed(self.seed)
+        items = list(self.data.items())
+        random.shuffle(items)
+        self.data = dict(items)        
 
     def loadEntry(self):
         if self.counter < len(self.data):
@@ -133,17 +148,19 @@ class MainWindow(QWidget):
     def save_to_disk(self):
         save_data = {
             'responses': self.responses,
-            'counter': self.counter
+            'counter': self.counter,
+            'seed': self.seed
         }
         with open('results.json', 'w') as file:
             json.dump(save_data, file)
 
     def load_from_disk(self):
-        if os.path.exists('results.json'):
-            with open('results.json', 'r') as file:
+        if os.path.exists(os.path.join(basedir, 'results.json')):
+            with open(os.path.join(basedir, 'results.json'), 'r') as file:
                 save_data = json.load(file)
                 self.responses = save_data.get('responses', {})
                 self.counter = save_data.get('counter', 0)
+                self.seed = save_data.get('seed', None)
                 self.progressBar.setValue(self.counter)
 
 
@@ -165,8 +182,8 @@ def extract_response(inst_text):
     return ""
 
 def main():
-    p = "evaluation/human_test.json"
-    c = "evaluation/human_test_cleaned.json"
+    p = os.path.join(basedir, "human_test.json")
+    c = os.path.join(basedir, "human_test_cleaned.json")
     app = QApplication(sys.argv)
     window = MainWindow(c)
     window.show()
