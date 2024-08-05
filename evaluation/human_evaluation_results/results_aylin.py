@@ -12,7 +12,7 @@ new_data = {}
 for key, value in data.items():
     for inner_key, inner_value in value.items():
         prompt_role = inner_value['Role following score']
-        factual_answer = inner_value['Factuality score']
+        factual_answer = inner_value['Factuality']
         new_data[keys[count]] = {
             "role_score": prompt_role,
             "fact_score": factual_answer
