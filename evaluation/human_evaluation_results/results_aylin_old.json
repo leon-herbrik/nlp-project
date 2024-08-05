@@ -1,0 +1,422 @@
+{
+    "epoch_0": {
+        "id_0": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_1": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_2": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_3": {
+            "prompt_role": 95,
+            "factual_answer": 100
+        },
+        "id_4": {
+            "prompt_role": 65,
+            "factual_answer": 100
+        },
+        "id_5": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_6": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_7": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_8": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_9": {
+            "prompt_role": 75,
+            "factual_answer": 100
+        }
+    },
+    "epoch_1": {
+        "id_0": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_1": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_2": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_3": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_4": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_5": {
+            "prompt_role": 95,
+            "factual_answer": 100
+        },
+        "id_6": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_7": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_8": {
+            "prompt_role": 75,
+            "factual_answer": 100
+        },
+        "id_9": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        }
+    },
+    "epoch_2": {
+        "id_0": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_1": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_2": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_3": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_4": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_5": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_6": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_7": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_8": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_9": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        }
+    },
+    "epoch_3": {
+        "id_0": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_1": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_2": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_3": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_4": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_5": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_6": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_7": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_8": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_9": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        }
+    },
+    "epoch_4": {
+        "id_0": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_1": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_2": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_3": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_4": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_5": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_6": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_7": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_8": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_9": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        }
+    },
+    "epoch_5": {
+        "id_0": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_1": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_2": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_3": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_4": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_5": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_6": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_7": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_8": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_9": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        }
+    },
+    "epoch_6": {
+        "id_0": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_1": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_2": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_3": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_4": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_5": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_6": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_7": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_8": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_9": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        }
+    },
+    "epoch_7": {
+        "id_0": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_1": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_2": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_3": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_4": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_5": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_6": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_7": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_8": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_9": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        }
+    },
+    "epoch_8": {
+        "id_0": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_1": {
+            "prompt_role": 75,
+            "factual_answer": 60
+        },
+        "id_2": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_3": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_4": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_5": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_6": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_7": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_8": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_9": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        }
+    },
+    "epoch_9": {
+        "id_0": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_1": {
+            "prompt_role": 80,
+            "factual_answer": 100
+        },
+        "id_2": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_3": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_4": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        },
+        "id_5": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_6": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_7": {
+            "prompt_role": 90,
+            "factual_answer": 100
+        },
+        "id_8": {
+            "prompt_role": 75,
+            "factual_answer": 60
+        },
+        "id_9": {
+            "prompt_role": 85,
+            "factual_answer": 100
+        }
+    }
+}

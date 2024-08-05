@@ -184,10 +184,10 @@ def extract_response(inst_text):
 def main():
     p = os.path.join(basedir, "human_test.json")
     c = os.path.join(basedir, "human_test_cleaned.json")
-    app = QApplication(sys.argv)
-    window = MainWindow(c)
-    window.show()
-    sys.exit(app.exec_())
+    # app = QApplication(sys.argv)
+    # window = MainWindow(c)
+    # window.show()
+    # sys.exit(app.exec_())
     
     with open(p, 'r') as f:
         data = json.load(f)
@@ -196,16 +196,14 @@ def main():
             for entry in data[key]:
                 prompt = extract_prompt(entry).strip()
                 response = extract_response(entry).strip().replace('\n   ', '\n')
-                id = f"{key}_{prompt.replace(' ', '')}"
+                epoch = key.split('/')[-1]
+                id = f"{epoch}_{prompt.replace(' ', '')}"
                 new_data[id] = {
                     'instruction': 'You are a helpful, respectful and honest assistant.\nHowever it is your role to only answer in poems or rhymes.\nUse a pair-rhyme for answering.',
                     'prompt': prompt,
                     'response': response
                 }
-    with open("evaluation/human_test_cleaned.json", 'w') as f:
-        items = list(new_data.items())
-        random.shuffle(items)
-        new_data = dict(items)
+    with open("human_test_cleaned.json", 'w') as f:
         json.dump(new_data, f)
     
 

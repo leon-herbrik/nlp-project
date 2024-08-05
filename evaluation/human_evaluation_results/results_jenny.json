@@ -1,1 +1,406 @@
-{"responses": {"epoch_9_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {"role_score": 95, "fact_score": 30}, "epoch_1_Cansoundtravelthroughavacuum?": {"role_score": 90, "fact_score": 90}, "epoch_4_DopenguinsliveintheArctic?": {"role_score": 60, "fact_score": 50}, "epoch_1_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {"role_score": 20, "fact_score": 50}, "epoch_5_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {"role_score": 85, "fact_score": 90}, "epoch_4_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {"role_score": 99, "fact_score": 90}, "epoch_2_IsthemoonlargerthanEarth?": {"role_score": 95, "fact_score": 100}, "epoch_6_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {"role_score": 100, "fact_score": 90}, "epoch_0_Describetheprocessofmitosisanditsroleincelldivision.": {"role_score": 80, "fact_score": 90}, "epoch_8_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {"role_score": 80, "fact_score": 70}, "epoch_5_Whataretheprimarycausesofairpollutioninurbanareas?": {"role_score": 100, "fact_score": 100}, "epoch_3_DopenguinsliveintheArctic?": {"role_score": 100, "fact_score": 100}, "epoch_9_IsthemoonlargerthanEarth?": {"role_score": 100, "fact_score": 100}, "epoch_6_DopenguinsliveintheArctic?": {"role_score": 100, "fact_score": 80}, "epoch_2_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {"role_score": 80, "fact_score": 80}, "epoch_7_DopenguinsliveintheArctic?": {"role_score": 100, "fact_score": 100}, "epoch_0_Whataretheprimarycausesofairpollutioninurbanareas?": {"role_score": 20, "fact_score": 100}, "epoch_5_Describetheprocessofmitosisanditsroleincelldivision.": {"role_score": 100, "fact_score": 100}, "epoch_1_Whataretheprimarycausesofairpollutioninurbanareas?": {"role_score": 20, "fact_score": 100}, "epoch_3_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {"role_score": 40, "fact_score": 80}, "epoch_0_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {"role_score": 60, "fact_score": 90}, "epoch_1_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {"role_score": 90, "fact_score": 100}, "epoch_0_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {"role_score": 20, "fact_score": 100}, "epoch_0_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {"role_score": 20, "fact_score": 100}, "epoch_4_Cansoundtravelthroughavacuum?": {"role_score": 20, "fact_score": 90}, "epoch_4_IsthemoonlargerthanEarth?": {"role_score": 95, "fact_score": 90}, "epoch_2_Describetheprocessofmitosisanditsroleincelldivision.": {"role_score": 70, "fact_score": 90}, "epoch_7_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {"role_score": 90, "fact_score": 100}, "epoch_4_Describetheprocessofmitosisanditsroleincelldivision.": {"role_score": 50, "fact_score": 100}, "epoch_7_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {"role_score": 50, "fact_score": 100}, "epoch_0_Cansoundtravelthroughavacuum?": {"role_score": 70, "fact_score": 100}, "epoch_8_DopenguinsliveintheArctic?": {"role_score": 100, "fact_score": 10}, "epoch_9_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {"role_score": 90, "fact_score": 100}, "epoch_5_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {"role_score": 90, "fact_score": 90}, "epoch_8_IsthemoonlargerthanEarth?": {"role_score": 90, "fact_score": 100}, "epoch_8_Whataretheprimarycausesofairpollutioninurbanareas?": {"role_score": 99, "fact_score": 100}, "epoch_6_Whataretheprimarycausesofairpollutioninurbanareas?": {"role_score": 80, "fact_score": 100}, "epoch_2_DopenguinsliveintheArctic?": {"role_score": 70, "fact_score": 100}, "epoch_2_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {"role_score": 70, "fact_score": 100}, "epoch_6_IsthemoonlargerthanEarth?": {"role_score": 20, "fact_score": 100}, "epoch_4_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {"role_score": 70, "fact_score": 100}, "epoch_0_IsthemoonlargerthanEarth?": {"role_score": 100, "fact_score": 100}, "epoch_9_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {"role_score": 80, "fact_score": 60}, "epoch_8_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {"role_score": 40, "fact_score": 90}, "epoch_9_Describetheprocessofmitosisanditsroleincelldivision.": {"role_score": 70, "fact_score": 90}, "epoch_5_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {"role_score": 70, "fact_score": 95}, "epoch_2_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {"role_score": 95, "fact_score": 100}, "epoch_6_Describetheprocessofmitosisanditsroleincelldivision.": {"role_score": 90, "fact_score": 90}, "epoch_4_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {"role_score": 70, "fact_score": 100}, "epoch_8_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {"role_score": 100, "fact_score": 70}, "epoch_9_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {"role_score": 60, "fact_score": 85}, "epoch_3_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {"role_score": 95, "fact_score": 85}, "epoch_7_Describetheprocessofmitosisanditsroleincelldivision.": {"role_score": 60, "fact_score": 80}, "epoch_0_DopenguinsliveintheArctic?": {"role_score": 100, "fact_score": 100}, "epoch_7_Cansoundtravelthroughavacuum?": {"role_score": 100, "fact_score": 100}, "epoch_3_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {"role_score": 90, "fact_score": 90}, "epoch_8_Describetheprocessofmitosisanditsroleincelldivision.": {"role_score": 70, "fact_score": 80}, "epoch_6_Cansoundtravelthroughavacuum?": {"role_score": 90, "fact_score": 100}, "epoch_1_Describetheprocessofmitosisanditsroleincelldivision.": {"role_score": 90, "fact_score": 65}, "epoch_1_DopenguinsliveintheArctic?": {"role_score": 90, "fact_score": 100}, "epoch_3_Whataretheprimarycausesofairpollutioninurbanareas?": {"role_score": 70, "fact_score": 70}, "epoch_4_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {"role_score": 40, "fact_score": 95}, "epoch_3_IsthemoonlargerthanEarth?": {"role_score": 100, "fact_score": 100}, "epoch_8_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {"role_score": 60, "fact_score": 85}, "epoch_9_Whataretheprimarycausesofairpollutioninurbanareas?": {"role_score": 70, "fact_score": 90}, "epoch_7_Whataretheprimarycausesofairpollutioninurbanareas?": {"role_score": 65, "fact_score": 100}, "epoch_8_Cansoundtravelthroughavacuum?": {"role_score": 90, "fact_score": 100}, "epoch_9_DopenguinsliveintheArctic?": {"role_score": 100, "fact_score": 90}, "epoch_1_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {"role_score": 30, "fact_score": 95}, "epoch_0_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {"role_score": 30, "fact_score": 95}, "epoch_1_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {"role_score": 40, "fact_score": 80}, "epoch_2_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {"role_score": 95, "fact_score": 80}, "epoch_6_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {"role_score": 70, "fact_score": 95}, "epoch_5_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {"role_score": 70, "fact_score": 80}, "epoch_5_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {"role_score": 90, "fact_score": 100}, "epoch_7_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {"role_score": 85, "fact_score": 90}, "epoch_7_IsthemoonlargerthanEarth?": {"role_score": 70, "fact_score": 90}, "epoch_2_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {"role_score": 95, "fact_score": 100}, "epoch_7_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {"role_score": 30, "fact_score": 50}, "epoch_8_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {"role_score": 50, "fact_score": 100}, "epoch_5_IsthemoonlargerthanEarth?": {"role_score": 100, "fact_score": 100}, "epoch_7_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {"role_score": 30, "fact_score": 90}, "epoch_5_DopenguinsliveintheArctic?": {"role_score": 100, "fact_score": 100}, "epoch_3_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {"role_score": 60, "fact_score": 100}, "epoch_2_Whataretheprimarycausesofairpollutioninurbanareas?": {"role_score": 70, "fact_score": 80}, "epoch_4_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {"role_score": 70, "fact_score": 85}, "epoch_0_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {"role_score": 70, "fact_score": 100}, "epoch_9_Cansoundtravelthroughavacuum?": {"role_score": 70, "fact_score": 80}, "epoch_6_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {"role_score": 60, "fact_score": 85}, "epoch_4_Whataretheprimarycausesofairpollutioninurbanareas?": {"role_score": 65, "fact_score": 100}, "epoch_3_Describetheprocessofmitosisanditsroleincelldivision.": {"role_score": 90, "fact_score": 80}, "epoch_6_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {"role_score": 50, "fact_score": 100}, "epoch_9_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {"role_score": 100, "fact_score": 100}, "epoch_5_Cansoundtravelthroughavacuum?": {"role_score": 95, "fact_score": 100}, "epoch_1_IsthemoonlargerthanEarth?": {"role_score": 70, "fact_score": 100}, "epoch_6_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {"role_score": 50, "fact_score": 40}, "epoch_1_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {"role_score": 30, "fact_score": 95}, "epoch_3_Cansoundtravelthroughavacuum?": {"role_score": 95, "fact_score": 100}, "epoch_2_Cansoundtravelthroughavacuum?": {"role_score": 60, "fact_score": 100}, "epoch_3_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {"role_score": 90, "fact_score": 100}}, "counter": 100, "seed": 1722530650.6450932}
+{
+    "responses": {
+        "epoch_9_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {
+            "role_score": 95,
+            "fact_score": 30
+        },
+        "epoch_1_Cansoundtravelthroughavacuum?": {
+            "role_score": 90,
+            "fact_score": 90
+        },
+        "epoch_4_DopenguinsliveintheArctic?": {
+            "role_score": 60,
+            "fact_score": 50
+        },
+        "epoch_1_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {
+            "role_score": 20,
+            "fact_score": 50
+        },
+        "epoch_5_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {
+            "role_score": 85,
+            "fact_score": 90
+        },
+        "epoch_4_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {
+            "role_score": 99,
+            "fact_score": 90
+        },
+        "epoch_2_IsthemoonlargerthanEarth?": {
+            "role_score": 95,
+            "fact_score": 100
+        },
+        "epoch_6_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {
+            "role_score": 100,
+            "fact_score": 90
+        },
+        "epoch_0_Describetheprocessofmitosisanditsroleincelldivision.": {
+            "role_score": 80,
+            "fact_score": 90
+        },
+        "epoch_8_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {
+            "role_score": 80,
+            "fact_score": 70
+        },
+        "epoch_5_Whataretheprimarycausesofairpollutioninurbanareas?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_3_DopenguinsliveintheArctic?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_9_IsthemoonlargerthanEarth?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_6_DopenguinsliveintheArctic?": {
+            "role_score": 100,
+            "fact_score": 80
+        },
+        "epoch_2_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {
+            "role_score": 80,
+            "fact_score": 80
+        },
+        "epoch_7_DopenguinsliveintheArctic?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_0_Whataretheprimarycausesofairpollutioninurbanareas?": {
+            "role_score": 20,
+            "fact_score": 100
+        },
+        "epoch_5_Describetheprocessofmitosisanditsroleincelldivision.": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_1_Whataretheprimarycausesofairpollutioninurbanareas?": {
+            "role_score": 20,
+            "fact_score": 100
+        },
+        "epoch_3_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {
+            "role_score": 40,
+            "fact_score": 80
+        },
+        "epoch_0_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {
+            "role_score": 60,
+            "fact_score": 90
+        },
+        "epoch_1_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {
+            "role_score": 90,
+            "fact_score": 100
+        },
+        "epoch_0_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {
+            "role_score": 20,
+            "fact_score": 100
+        },
+        "epoch_0_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {
+            "role_score": 20,
+            "fact_score": 100
+        },
+        "epoch_4_Cansoundtravelthroughavacuum?": {
+            "role_score": 20,
+            "fact_score": 90
+        },
+        "epoch_4_IsthemoonlargerthanEarth?": {
+            "role_score": 95,
+            "fact_score": 90
+        },
+        "epoch_2_Describetheprocessofmitosisanditsroleincelldivision.": {
+            "role_score": 70,
+            "fact_score": 90
+        },
+        "epoch_7_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {
+            "role_score": 90,
+            "fact_score": 100
+        },
+        "epoch_4_Describetheprocessofmitosisanditsroleincelldivision.": {
+            "role_score": 50,
+            "fact_score": 100
+        },
+        "epoch_7_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {
+            "role_score": 50,
+            "fact_score": 100
+        },
+        "epoch_0_Cansoundtravelthroughavacuum?": {
+            "role_score": 70,
+            "fact_score": 100
+        },
+        "epoch_8_DopenguinsliveintheArctic?": {
+            "role_score": 100,
+            "fact_score": 10
+        },
+        "epoch_9_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {
+            "role_score": 90,
+            "fact_score": 100
+        },
+        "epoch_5_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {
+            "role_score": 90,
+            "fact_score": 90
+        },
+        "epoch_8_IsthemoonlargerthanEarth?": {
+            "role_score": 90,
+            "fact_score": 100
+        },
+        "epoch_8_Whataretheprimarycausesofairpollutioninurbanareas?": {
+            "role_score": 99,
+            "fact_score": 100
+        },
+        "epoch_6_Whataretheprimarycausesofairpollutioninurbanareas?": {
+            "role_score": 80,
+            "fact_score": 100
+        },
+        "epoch_2_DopenguinsliveintheArctic?": {
+            "role_score": 70,
+            "fact_score": 100
+        },
+        "epoch_2_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {
+            "role_score": 70,
+            "fact_score": 100
+        },
+        "epoch_6_IsthemoonlargerthanEarth?": {
+            "role_score": 20,
+            "fact_score": 100
+        },
+        "epoch_4_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {
+            "role_score": 70,
+            "fact_score": 100
+        },
+        "epoch_0_IsthemoonlargerthanEarth?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_9_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {
+            "role_score": 80,
+            "fact_score": 60
+        },
+        "epoch_8_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {
+            "role_score": 40,
+            "fact_score": 90
+        },
+        "epoch_9_Describetheprocessofmitosisanditsroleincelldivision.": {
+            "role_score": 70,
+            "fact_score": 90
+        },
+        "epoch_5_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {
+            "role_score": 70,
+            "fact_score": 95
+        },
+        "epoch_2_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {
+            "role_score": 95,
+            "fact_score": 100
+        },
+        "epoch_6_Describetheprocessofmitosisanditsroleincelldivision.": {
+            "role_score": 90,
+            "fact_score": 90
+        },
+        "epoch_4_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {
+            "role_score": 70,
+            "fact_score": 100
+        },
+        "epoch_8_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {
+            "role_score": 100,
+            "fact_score": 70
+        },
+        "epoch_9_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {
+            "role_score": 60,
+            "fact_score": 85
+        },
+        "epoch_3_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {
+            "role_score": 95,
+            "fact_score": 85
+        },
+        "epoch_7_Describetheprocessofmitosisanditsroleincelldivision.": {
+            "role_score": 60,
+            "fact_score": 80
+        },
+        "epoch_0_DopenguinsliveintheArctic?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_7_Cansoundtravelthroughavacuum?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_3_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {
+            "role_score": 90,
+            "fact_score": 90
+        },
+        "epoch_8_Describetheprocessofmitosisanditsroleincelldivision.": {
+            "role_score": 70,
+            "fact_score": 80
+        },
+        "epoch_6_Cansoundtravelthroughavacuum?": {
+            "role_score": 90,
+            "fact_score": 100
+        },
+        "epoch_1_Describetheprocessofmitosisanditsroleincelldivision.": {
+            "role_score": 90,
+            "fact_score": 65
+        },
+        "epoch_1_DopenguinsliveintheArctic?": {
+            "role_score": 90,
+            "fact_score": 100
+        },
+        "epoch_3_Whataretheprimarycausesofairpollutioninurbanareas?": {
+            "role_score": 70,
+            "fact_score": 70
+        },
+        "epoch_4_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {
+            "role_score": 40,
+            "fact_score": 95
+        },
+        "epoch_3_IsthemoonlargerthanEarth?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_8_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {
+            "role_score": 60,
+            "fact_score": 85
+        },
+        "epoch_9_Whataretheprimarycausesofairpollutioninurbanareas?": {
+            "role_score": 70,
+            "fact_score": 90
+        },
+        "epoch_7_Whataretheprimarycausesofairpollutioninurbanareas?": {
+            "role_score": 65,
+            "fact_score": 100
+        },
+        "epoch_8_Cansoundtravelthroughavacuum?": {
+            "role_score": 90,
+            "fact_score": 100
+        },
+        "epoch_9_DopenguinsliveintheArctic?": {
+            "role_score": 100,
+            "fact_score": 90
+        },
+        "epoch_1_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {
+            "role_score": 30,
+            "fact_score": 95
+        },
+        "epoch_0_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {
+            "role_score": 30,
+            "fact_score": 95
+        },
+        "epoch_1_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {
+            "role_score": 40,
+            "fact_score": 80
+        },
+        "epoch_2_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {
+            "role_score": 95,
+            "fact_score": 80
+        },
+        "epoch_6_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {
+            "role_score": 70,
+            "fact_score": 95
+        },
+        "epoch_5_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {
+            "role_score": 70,
+            "fact_score": 80
+        },
+        "epoch_5_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {
+            "role_score": 90,
+            "fact_score": 100
+        },
+        "epoch_7_Describethekeycomponentsandfunctionsofthehumanrespiratorysystem.": {
+            "role_score": 85,
+            "fact_score": 90
+        },
+        "epoch_7_IsthemoonlargerthanEarth?": {
+            "role_score": 70,
+            "fact_score": 90
+        },
+        "epoch_2_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {
+            "role_score": 95,
+            "fact_score": 100
+        },
+        "epoch_7_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {
+            "role_score": 30,
+            "fact_score": 50
+        },
+        "epoch_8_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {
+            "role_score": 50,
+            "fact_score": 100
+        },
+        "epoch_5_IsthemoonlargerthanEarth?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_7_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {
+            "role_score": 30,
+            "fact_score": 90
+        },
+        "epoch_5_DopenguinsliveintheArctic?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_3_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {
+            "role_score": 60,
+            "fact_score": 100
+        },
+        "epoch_2_Whataretheprimarycausesofairpollutioninurbanareas?": {
+            "role_score": 70,
+            "fact_score": 80
+        },
+        "epoch_4_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {
+            "role_score": 70,
+            "fact_score": 85
+        },
+        "epoch_0_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {
+            "role_score": 70,
+            "fact_score": 100
+        },
+        "epoch_9_Cansoundtravelthroughavacuum?": {
+            "role_score": 70,
+            "fact_score": 80
+        },
+        "epoch_6_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {
+            "role_score": 60,
+            "fact_score": 85
+        },
+        "epoch_4_Whataretheprimarycausesofairpollutioninurbanareas?": {
+            "role_score": 65,
+            "fact_score": 100
+        },
+        "epoch_3_Describetheprocessofmitosisanditsroleincelldivision.": {
+            "role_score": 90,
+            "fact_score": 80
+        },
+        "epoch_6_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {
+            "role_score": 50,
+            "fact_score": 100
+        },
+        "epoch_9_Whatarethemaindifferencesbetweendemocracyandtotalitarianism?": {
+            "role_score": 100,
+            "fact_score": 100
+        },
+        "epoch_5_Cansoundtravelthroughavacuum?": {
+            "role_score": 95,
+            "fact_score": 100
+        },
+        "epoch_1_IsthemoonlargerthanEarth?": {
+            "role_score": 70,
+            "fact_score": 100
+        },
+        "epoch_6_Designaconceptforaneco-consciousfashionlinethatcombinessustainabilitywithcutting-edgestyle.": {
+            "role_score": 50,
+            "fact_score": 40
+        },
+        "epoch_1_Writeaguideforaspiringurbanforagers,includingtipsonfindingedibleplantsincityenvironmentsanddeliciousrecipesusingyourforagedfinds.": {
+            "role_score": 30,
+            "fact_score": 95
+        },
+        "epoch_3_Cansoundtravelthroughavacuum?": {
+            "role_score": 95,
+            "fact_score": 100
+        },
+        "epoch_2_Cansoundtravelthroughavacuum?": {
+            "role_score": 60,
+            "fact_score": 100
+        },
+        "epoch_3_Explaintheprinciplesofneurotransmissioninthehumanbrainandhowitinfluencesourthoughts,emotions,andbehaviors.": {
+            "role_score": 90,
+            "fact_score": 100
+        }
+    },
+    "counter": 100,
+    "seed": 1722530650.6450932
+}
